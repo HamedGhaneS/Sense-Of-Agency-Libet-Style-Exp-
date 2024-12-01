@@ -29,6 +29,11 @@ We hypothesize that once the point of no return is crossed (~200ms before action
 
 ## Documentation
 
+<div align="center">
+  <img src="Thesis/Figures/Action.png" alt="Experimental Setup" width="600"/>
+</div>
+
+
 The complete research methodology, theoretical background, and experimental results are detailed in the master's thesis document located in the `thesis/` directory. The thesis provides comprehensive information about:
 
 - Theoretical foundations of sense of agency
