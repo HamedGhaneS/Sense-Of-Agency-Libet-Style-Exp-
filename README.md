@@ -1,5 +1,9 @@
 # Sense of Agency - Libet Style Experiment
 
+<div align="center">
+  <img src="thesis/figures/cover.png" alt="Experimental Setup" width="600"/>
+</div>
+
 This repository contains the code and documentation for investigating the relationship between the "point of no return" in action initiation and the human sense of agency using real-time Brain-Computer Interfaces (BCI).
 
 ## Project Overview
