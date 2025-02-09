@@ -8,7 +8,7 @@ This repository contains the code and documentation for investigating the relati
 
 ## Project Overview
 
-This research explores how the timing of the "point of no return" (approximately 200ms before a voluntary action) influences our post-action sense of agency. Using BCI and machine learning techniques, we detect imminent actions in real-time to study how the temporal relationship between intention detection, action execution, and outcome presentation affects the perceived sense of control over actions.
+This research explores how the timing of the "point of no return" (approximately 200ms before a voluntary action) influences our post-action sense of agency. Using  BCI and machine learning techniques, we detect imminent actions in real-time to study how the temporal relationship between intention detection, action execution, and outcome presentation affects the perceived sense of control over actions.
 
 ## Research Hypothesis
 
